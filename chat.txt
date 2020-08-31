@@ -1,0 +1,11 @@
+{% comment %} 
+Data should come in the format: Name | Roll no. | Present 
+{% endcomment %}
+
+Deepanshu Mittal | 11912056 | Present  
+Akash Anand | 11912051 | Present
+3214                        {% comment %}   this is garbage chat   {% endcomment %}
+fsadgfh | sfg | 34          {% comment %}   and will be neglected   {% endcomment %}
+mxabkcgcxakfsn tv  vttwv        
+Rahul Gupta | 11912049 | Abscnet
+Harsh Soni | 11912084 | Present
